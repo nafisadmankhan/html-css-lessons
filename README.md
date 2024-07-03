@@ -1,6 +1,6 @@
 # html-css-lessons
 
-A repository where I store all the lessons I have learned about HTML and CSS through YouTube for future reference
+A repository where I store all the lessons I have learned for future reference
 
 ## Content Reference
 
