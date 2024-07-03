@@ -9,4 +9,4 @@ A repository where I store all the lessons I have learned about HTML and CSS thr
 
 | Reference | Level     | 🔗 Links               |
 | :-------- | :------- | :------------------------- |
-| `course-01` | `Beginner` | [HTML & CSS Full Course - Beginner to Pro](https://youtu.be/G3e-cpL7ofc?si=12b1zlgME1_TUOj3)|
+| `youtube-course-01` | `Beginner` | [HTML & CSS Full Course - Beginner to Pro](https://youtu.be/G3e-cpL7ofc?si=12b1zlgME1_TUOj3)|
