@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(240, 242, 245);
+}
+
+#div_left {
+    width: 55%;
+    height: 800px;
+    float: left;
+}
+
+#div_right {
+    width: 45%;
+    height: 800px;
+    float: right;
+}
+
+.placeholder-text {
+    /* border: 1px solid black; */
+    margin: 25% 0 0 15%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    /* border: 1px solid black; */
+    font-size: 64px;
+    font-weight: bold;
+    color: rgb(8, 102, 255);
+    margin-bottom: 0;
+}
+
+.subtitle {
+    /* border: 1px solid black; */
+    font-size: xx-large;
+    font-weight: 500;
+    color: rgb(28, 30, 33);
+    margin-top: 0px;
+}
+
+#btn1{
+    color:rgb(255, 255, 255);
+    background-color: rgb(8, 102, 255);
+    font-weight: bold;
+    display: block;
+    width: 100%;
+    height: 35px;
+    border: none;
+    border-radius: 4px;
+    display: block;
+}
+
+.lbl12{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(0, 0, 0);
+    font-weight: bold;
+    text-shadow: 2px 2px 4px white;
+}
+.txt12{
+    padding: 5px 10px;
+    width: 95%;
+    height: 35px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(206, 206, 206); 
+    border-radius: 5px;
+    background-color:rgb(255, 255, 255);
+    /* box-shadow: 1px 2px 2px 1px rgba(22, 22, 22, 0.5); */
+}
+
+.placeholder-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+#div1{
+    width: 60%;
+    margin:20% 0 0 0; /* margin: top right bottom left */
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, .1);
+    border-radius: 8px;
+    padding: 10px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+}
+
+.table_class {
+    padding: 5px;
+    /* border: 1px solid black; */
+    width: 100%;
+}
+
+.small {
+    font-size: small;
+    text-align: center;
+    color: rgb(8, 102, 255);
+}
+
+#btn2 {
+    color:rgb(255, 255, 255);
+    background-color: rgb(66, 183, 42);
+    font-weight: bold;
+    display: block;
+    width: 75%;
+    height: 35px;
+    border: none;
+    border-radius: 4px;
+    margin-left: 10%;
+    cursor: pointer;
+    padding: 10px 5px;
+}
+
+.
