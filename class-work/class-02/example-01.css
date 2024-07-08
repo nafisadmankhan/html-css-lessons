@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#div_left {
+    width: 50%;
+    height: 800px;
+    background-color: rgb(255, 110, 110);
+    float: left;
+}
+
+#div_right {
+    width: 50%;
+    height: 800px;
+    background-color: rgb(255, 145, 0);
+    float: right;
+}
