@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .parent {
+            background-color: skyblue;
+            border: 5px solid skyblue;
+            margin-bottom: 15px;
+        }
+
+        .child-one {
+            background-color: greenyellow;
+            position: relative;
+            left: 10px;
+        }
+
+        .child-two {
+            background-color: red;
+            left: 10px;
+        }
+
+        .child-three {
+            background-color: violet;
+            position: relative;
+            top: 10px;
+        }
+
+        .parent-abs {
+            background-color: skyblue;
+            border: 5px solid skyblue;
+            margin-bottom: 15px;
+        }
+
+        .child-one-abs {
+            background-color: greenyellow;
+            position: absolute;
+            top: 0;
+        }
+
+        .child-two-abs {
+            background-color: red;
+            
+        }
+
+        .child-three-abs {
+            background-color: violet;
+            
+        }
+    </style>
+</head>
+<body>
+    <div class="parent">Relative Position
+        <div class="child-one child">One</div>
+        <div class="child-two child">Two</div>
+        <div class="child-three child">Three</div>
+    </div>
+    <div class="parent-abs">Absolute Position
+        <div class="child-one-abs child">One</div>
+        <div class="child-two-abs child">Two</div>
+        <div class="child-three-abs child">Three</div>
+    </div>
+</body>
+</html>
