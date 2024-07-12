@@ -17,6 +17,8 @@ https://github.com/user-attachments/assets/c376add8-4c7d-45f0-807f-6e7f3ac822d2
 ![lesson5-1](https://github.com/user-attachments/assets/c3f4e9b0-453a-4f63-bcb0-20d395d4bacb)
 ![lesson5-2](https://github.com/user-attachments/assets/62de429c-71c2-4d7d-8827-d90c3f35190e)
 ![lesson6-1](https://github.com/user-attachments/assets/e51e1bb3-7d02-4943-b5c7-07d55d6f6c80)
+## Lesson 07
+[Images and Text Boxes](https://youtu.be/G3e-cpL7ofc?si=J6TLpn44v3I5ehoC&t=7868)
 ![lesson7-1](https://github.com/user-attachments/assets/82f249b2-4fd8-412a-9911-5906ec312a1e)
 ![lesson7-2](https://github.com/user-attachments/assets/60ac3c59-0561-4ed5-859b-443825f8cf8f)
 ![lesson8-1](https://github.com/user-attachments/assets/4f4db72b-db92-4a63-8f50-3370443322d6)
