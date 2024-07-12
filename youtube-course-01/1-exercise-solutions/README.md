@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/c376add8-4c7d-45f0-807f-6e7f3ac822d2
 ![lesson5-2](https://github.com/user-attachments/assets/62de429c-71c2-4d7d-8827-d90c3f35190e)
 ## [Lesson 06 - The HTML Structure](https://youtu.be/G3e-cpL7ofc?si=KntQCjgfGDh3Li9P&t=6738)
 ![lesson6-1](https://github.com/user-attachments/assets/e51e1bb3-7d02-4943-b5c7-07d55d6f6c80)
-## [Lesson 07 - Images and Text Boxes](https://youtu.be/G3e-cpL7ofc?si=J6TLpn44v3I5ehoC&t=7868)
+## <a href="https://youtu.be/G3e-cpL7ofc?si=J6TLpn44v3I5ehoC&t=7868" target="_blank">Lesson 07 - Images and Text Boxes</a>
 ![lesson7-1](https://github.com/user-attachments/assets/82f249b2-4fd8-412a-9911-5906ec312a1e)
 ![lesson7-2](https://github.com/user-attachments/assets/60ac3c59-0561-4ed5-859b-443825f8cf8f)
 ## [Lesson 08 - CSS Display Property](https://youtu.be/G3e-cpL7ofc?si=LiCy9eU3x5zFXtaC&t=8742)
